@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a dual student with a background in **software development**. After completing my vocational training as an **IT specialist for application development**, I am now pursuing a **Bachelor of Science in Data Science (Computer Science)**.  
+I am a data scientist with a background in **software development**. After completing my vocational training as an **IT specialist for application development**, I completed a **Bachelor of Science in Data Science (Computer Science)**.  
 
 On this page, you'll find various projects that I have developed or contributed to:  
 
